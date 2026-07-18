@@ -4,6 +4,8 @@ Universities face challenges in managing student course enrollment, prioritizing
 ## Introduction
 
 
+## Data Structures
+
 
 
 | Requirement                     | Data Structure / Algorithm             | Reason                                            |
