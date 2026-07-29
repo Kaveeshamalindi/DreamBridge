@@ -5,6 +5,12 @@ Universities face challenges in managing student course enrollment, prioritizing
 
 ## Fearures
 
+The system supports:
+- Student registration
+- Priority-based course enrollment
+- Student record retrieval
+- Searching and sorting operations
+
 
 ## Data Structures
 
