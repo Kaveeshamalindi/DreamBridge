@@ -6,7 +6,7 @@ Universities face challenges in managing student course enrollment, prioritizing
 ## Fearures
 
 The system supports:
-- Student registration
+- Student registration - Doubly LinkedList
 - Priority-based course enrollment
 - Student record retrieval
 - Searching and sorting operations
