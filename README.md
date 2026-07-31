@@ -6,7 +6,7 @@ Universities face challenges in managing student course enrollment, prioritizing
 ## Fearures
 
 The system supports:
-- Student registration - Doubly LinkedList
+- Student registration 
 - Priority-based course enrollment
 - Student record retrieval
 - Searching and sorting operations
@@ -18,7 +18,7 @@ The system supports:
 
 | Requirement                     | Data Structure / Algorithm             | Reason                                            |
 | ------------------------------- | -------------------------------------- | ------------------------------------------------- |
-| Student Registration Queue      | Singly Linked List                     | Efficient insertion at end and removal from front |
+| Student Registration Queue      | Doubly LinkedList                      | Efficient insertion at end and removal from front |
 | High-Demand Course Registration | Priority Queue (Max Heap)              | Processes high-priority students first            |
 | Completed Enrollment Records    | Binary Search Tree (BST) or Hash Table | Fast student lookup                               |
 | Search Student by ID            | Binary Search                          | O(log n) search after sorting                     |
