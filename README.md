@@ -20,7 +20,7 @@ The system supports:
 | ------------------------------- | -------------------------------------- | ------------------------------------------------- |
 | Student Registration Queue      | Doubly LinkedList                      | Efficient insertion at end and removal from front |
 | High-Demand Course Registration | Priority Queue (Max Heap)              | Processes high-priority students first            |
-| Completed Enrollment Records    | Binary Search Tree (BST) or Hash Table | Fast student lookup                               |
+| Completed Enrollment Records    | Hash Table                             | Fast student lookup                               |
 | Search Student by ID            | Binary Search                          | O(log n) search after sorting                     |
 | Sort Students                   | Merge Sort                             | Stable and efficient O(n log n)                   |
 
