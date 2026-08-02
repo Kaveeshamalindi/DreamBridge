@@ -22,5 +22,5 @@ The system supports:
 | High-Demand Course Registration | Priority Queue (Max Heap)              | Processes high-priority students first            |
 | Completed Enrollment Records    | Hash Table                             | Fast student lookup                               |
 | Search Student by ID            | Binary Search                          | O(log n) search after sorting                     |
-| Sort Students                   | Merge Sort                             | Stable and efficient O(n log n)                   |
+| Sort Students                   | Quick Sort                             | Stable and efficient O(n log n)                   |
 
