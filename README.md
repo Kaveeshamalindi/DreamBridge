@@ -18,7 +18,7 @@ The system supports:
 
 | Requirement                     | Data Structure / Algorithm             | Reason                                            |
 | ------------------------------- | -------------------------------------- | ------------------------------------------------- |
-| Student Registration Queue      | Doubly LinkedList                      | Efficient insertion at end and removal from front |
+| Self Student Registration            | Doubly LinkedList                      | Efficient insertion at end and removal from front |
 | High-Demand Course Registration | Priority Queue                         | Processes high-priority students first            |
 | Completed Enrollment Records    | Hash Table                             | Fast student lookup                               |
 | Search Student by ID            | Binary Search                          | O(log n) search after sorting                     |
