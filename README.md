@@ -26,3 +26,5 @@ The system supports:
 | Search Student by ID            | Binary Search                          | O(log n) search after sorting                     |
 | Sort Students                   | Quick Sort                             | Stable and efficient O(n log n)                   |
 
+## System Results
+
