@@ -7,6 +7,10 @@ Universities face challenges in managing student course enrollment, prioritizing
 
 ## System Features
 
+### Functional Features
+
+### Non-Functional Features
+
 The system supports:
 - Student registration 
 - Priority-based course enrollment
@@ -25,6 +29,8 @@ The system supports:
 | Completed Enrollment Records    | Hash Table                             | Fast student lookup                               |
 | Search Student by ID            | Binary Search                          | O(log n) search after sorting                     |
 | Sort Students                   | Quick Sort                             | Stable and efficient O(n log n)                   |
+
+## System Design
 
 ## System Results
 
