@@ -2,9 +2,9 @@
 
 ## Introduction
 
-DreamBridge is a Java-based University Course Enrollment System developed to manage **student registration** and **course enrollment** efficiently. The system applies **data structures and algorithms** to manage **student queues, prioritize registrations, store completed enrollment records, and perform efficient searching and sorting operations.**
+<p align="justify"> DreamBridge is a Java-based University Course Enrollment System developed to manage <B>student registration</B> and <B>course enrollment</B> efficiently. The system applies <B>data structures and algorithms</B> to manage <B>student queues, prioritize registrations, store completed enrollment records, and perform efficient searching and sorting operations.</B> </p>
 
-The system was developed using **object-oriented programming principles** and custom data structure implementations to demonstrate the practical **application of data structures and algorithms** in a real-world university environment.
+<p align="justify"> The system was developed using <B>object-oriented programming principles</B> and custom data structure implementations to demonstrate the practical <B>application of data structures and algorithms</B> in a real-world university environment. </p>
 
 **Demo Link:** 
 
@@ -61,11 +61,11 @@ This project was developed using the following technologies:
 
 ---
 
+## System Design
 
+---
 
-## Data Structures
-
-
+## Data Structures and Algorithms Used
 
 | Requirement                     | Data Structure / Algorithm             | Reason                                            |
 | ------------------------------- | -------------------------------------- | ------------------------------------------------- |
@@ -75,7 +75,84 @@ This project was developed using the following technologies:
 | Search Student by ID            | Binary Search                          | O(log n) search after sorting                     |
 | Sort Students                   | Quick Sort                             | Stable and efficient O(n log n)                   |
 
-## System Design
+---
+
+### Data Structures & Algorithms Selection and Justification
+
+#### Doubly Linked List
+- Used to store student registration records.
+- Suitable for dynamic data where records can be added or removed.
+- Supports forward and backward traversal.
+- Provides flexible insertion and deletion without shifting existing records.
+
+#### Priority Queue
+- Used to manage high-demand course registration.
+- Students are prioritized according to Senior → Junior → Fresher.
+- Students with equal priority are processed according to arrival order.
+- Implemented using a sorted array for efficient priority management.
+
+#### Hash Table
+- Used to store and retrieve enrolled student records.
+- Student ID is used as the unique key.
+- Provides fast searching compared with sequential searching in a linked list.
+- Average search time is O(1).
+
+#### Binary Search
+- Used to search students by Student ID.
+- Requires the student records to be sorted first.
+- Repeatedly divides the search range into two parts.
+- Provides efficient searching with O(log n) time complexity.
+
+#### Quick Sort
+- Used to sort student records by Student ID or student name.
+- Uses a pivot and partitioning approach.
+- Supports efficient sorting of large datasets.
+- Average time complexity is O(n log n).
+
+---
 
 ## System Results
+
+---
+
+## Reflection on Limitations
+
+The system meets all the main project requirements. However,
+
+- Student records are stored in text files instead of a database.
+- Text files are less suitable for large amounts of data, security, and scalability.
+- The Hash Table has a fixed size of 50 records.
+- If more than 50 records are required, the source code must be modified manually.
+- Therefore, developer support may be needed when the system grows.
+
+---
+
+## Improvements
+
+- Replace text-file storage with a relational database such as MySQL.
+- Use cloud databases such as AWS, Microsoft Azure, or Google Cloud for better scalability and security.
+- Implement dynamic resizing for the Hash Table so its capacity increases automatically.
+- Add account lockout after several unsuccessful login attempts.
+- Implement role-based authentication for students and administrators.
+- Store usernames and passwords securely using appropriate authentication methods.
+- Add SMS or email notifications for enrollment confirmations using APIs.
+- Generate student and course reports in PDF or Excel format.
+- Convert the desktop system into a web application using:
+
+| **Technology**  | **Purpose**                                 |
+| --------------- | ------------------------------------------- |
+| **Spring Boot** | Backend development                         |
+| **React.js**    | Frontend development                        |
+| **MySQL**       | Database management                         |
+| **REST APIs**   | Communication between frontend and backend  |
+| **JWT**         | Authentication and authorization            |
+| **Docker**      | Application containerization and deployment |
+| **AWS / Azure** | Cloud hosting and deployment                |
+
+
+---
+
+## Conclusion
+
+ <p align="justify"> DreamBridge successfully manages student registration, priority handling, searching, sorting, and enrollment records. The system uses a Doubly Linked List, Priority Queue, Hash Table, Binary Search, and Quick Sort to improve data management and performance. Testing showed that the main functions work correctly. Overall, the project achieved its main objectives and provides an efficient solution for managing university course enrollment. </p>
 
