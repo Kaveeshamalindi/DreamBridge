@@ -1,6 +1,6 @@
 #  🎓 DreamBridge
 
-## Introduction
+## 📝 Introduction
 
 <p align="justify"> DreamBridge is a Java-based University Course Enrollment System developed to manage <B>student registration</B> and <B>course enrollment</B> efficiently. The system applies <B>data structures and algorithms</B> to manage <B>student queues, prioritize registrations, store completed enrollment records, and perform efficient searching and sorting operations.</B> </p>
 
@@ -10,7 +10,7 @@
 
 ---
 
-## System Features
+## 🎬 System Features
 
 ### Functional Features
 
@@ -45,7 +45,7 @@ The system supports:
 
 ---
 
-### Technologies Used
+### 🔅 Technologies Used
 
 This project was developed using the following technologies:
 
@@ -61,11 +61,11 @@ This project was developed using the following technologies:
 
 ---
 
-## System Design
+## 🎨 System Design
 
 ---
 
-## Data Structures and Algorithms Used
+## 🔎 Data Structures and Algorithms Used
 
 | Requirement                     | Data Structure / Algorithm             | Reason                                            |
 | ------------------------------- | -------------------------------------- | ------------------------------------------------- |
@@ -77,7 +77,7 @@ This project was developed using the following technologies:
 
 ---
 
-### Data Structures & Algorithms Selection and Justification
+### 📒 Data Structures & Algorithms Selection and Justification
 
 #### Doubly Linked List
 - Used to store student registration records.
@@ -111,11 +111,11 @@ This project was developed using the following technologies:
 
 ---
 
-## System Results
+## 🎯 System Results
 
 ---
 
-## Reflection on Limitations
+## 📌 Reflection on Limitations
 
 The system meets all the main project requirements. However,
 
@@ -127,7 +127,7 @@ The system meets all the main project requirements. However,
 
 ---
 
-## Improvements
+## 📊 Improvements
 
 - Replace text-file storage with a relational database such as MySQL.
 - Use cloud databases such as AWS, Microsoft Azure, or Google Cloud for better scalability and security.
@@ -152,7 +152,7 @@ The system meets all the main project requirements. However,
 
 ---
 
-## Conclusion
+## 📜 Conclusion
 
  <p align="justify"> DreamBridge successfully manages student registration, priority handling, searching, sorting, and enrollment records. The system uses a Doubly Linked List, Priority Queue, Hash Table, Binary Search, and Quick Sort to improve data management and performance. Testing showed that the main functions work correctly. Overall, the project achieved its main objectives and provides an efficient solution for managing university course enrollment. </p>
 
