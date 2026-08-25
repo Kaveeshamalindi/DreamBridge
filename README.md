@@ -1,13 +1,14 @@
 #  🎓 DreamBridge
-Universities face challenges in managing student course enrollment, prioritizing course registration for high-demand classes, and maintaining records for quick retrieval. DreamBridge is a University Course Enrollment System (UCES) designed to address these challenges using appropriate data structures and algorithms for efficient enrollment management.
-
-**Demo Link:** 
 
 ## Introduction
 
 DreamBridge is a Java-based University Course Enrollment System developed to manage student registration and course enrollment efficiently. The system applies data structures and algorithms to manage student queues, prioritize registrations, store completed enrollment records, and perform efficient searching and sorting operations.
 
 The system was developed using object-oriented programming principles and custom data structure implementations to demonstrate the practical application of data structures and algorithms in a real-world university environment.
+
+**Demo Link:** 
+
+---
 
 ## System Features
 
@@ -41,6 +42,25 @@ The system supports:
 - **Persistence**: Stores student, enrollment, and registration records permanently using text files, allowing data to be loaded when the system restarts.
 
 - **Performance**: Uses appropriate Data Structures and Algorithms (DSA), including Doubly Linked List, Priority Queue, Hash Table, Quick Sort, and Binary Search, to provide faster response times and smooth system operation.
+
+---
+
+### Technologies Used
+
+This project was developed using the following technologies:
+
+| **Technology / Concept**                 | **Purpose**                                                                |
+| ---------------------------------------- | -------------------------------------------------------------------------- |
+| **Java**                                 | Main programming language used to develop the system                       |
+| **NetBeans IDE**                         | Development environment used for coding, testing, and debugging            |
+| **Java Swing**                           | Used to develop the graphical user interface (GUI)                         |
+| **Object-Oriented Programming (OOP)**    | Provides a structured and modular approach to software development         |
+| **File Handling**                        | Used for permanent storage and retrieval of student and enrollment records |
+| **Exception Handling**                   | Used to handle errors and invalid user inputs efficiently                  |
+| **Custom Data Structures**               | Used for efficient data management and processing                          |
+
+---
+
 
 
 ## Data Structures
