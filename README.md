@@ -54,7 +54,7 @@ This project was developed using the following technologies:
 | **Java**                                 | Main programming language used to develop the system                       |
 | **NetBeans IDE**                         | Development environment used for coding, testing, and debugging            |
 | **Java Swing**                           | Used to develop the graphical user interface (GUI)                         |
-| **Object-Oriented Programming (OOP)**    | Provides a structured and modular approach to software development         |
+| **OOP**                                  | Provides a structured and modular approach to software development         |
 | **File Handling**                        | Used for permanent storage and retrieval of student and enrollment records |
 | **Exception Handling**                   | Used to handle errors and invalid user inputs efficiently                  |
 | **Custom Data Structures**               | Used for efficient data management and processing                          |
