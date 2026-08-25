@@ -41,7 +41,7 @@ The system supports:
 
 - **Persistence**: Stores student, enrollment, and registration records permanently using text files, allowing data to be loaded when the system restarts.
 
-- **Performance**: Uses appropriate Data Structures and Algorithms (DSA), including Doubly Linked List, Priority Queue, Hash Table, Quick Sort, and Binary Search, to provide faster response times and smooth system operation.
+- **Performance**: Uses appropriate DSA, including Doubly Linked List, Priority Queue, Hash Table, Quick Sort, and Binary Search, to provide faster response times and smooth system operation.
 
 ---
 
