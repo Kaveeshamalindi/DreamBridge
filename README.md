@@ -113,6 +113,13 @@ This project was developed using the following technologies:
 
 ## 🎯 System Results
 
+<p align="center">
+  <img src="Images/Screenshot (1275).png" width="400" style="display: inline-block;">
+  <Br>
+  <img src="Images/img2.png" width="400" style="display: inline-block; margin: 0 20px;">
+  <img src="Images/img3.png" width="400" style="display: inline-block;">
+</p>
+
 ---
 
 ## 📌 Reflection on Limitations
