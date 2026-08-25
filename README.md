@@ -2,9 +2,9 @@
 
 ## Introduction
 
-DreamBridge is a Java-based University Course Enrollment System developed to manage student registration and course enrollment efficiently. The system applies data structures and algorithms to manage student queues, prioritize registrations, store completed enrollment records, and perform efficient searching and sorting operations.
+DreamBridge is a Java-based University Course Enrollment System developed to manage **student registration** and **course enrollment** efficiently. The system applies **data structures and algorithms** to manage **student queues, prioritize registrations, store completed enrollment records, and perform efficient searching and sorting operations.**
 
-The system was developed using object-oriented programming principles and custom data structure implementations to demonstrate the practical application of data structures and algorithms in a real-world university environment.
+The system was developed using **object-oriented programming principles** and custom data structure implementations to demonstrate the practical **application of data structures and algorithms** in a real-world university environment.
 
 **Demo Link:** 
 
