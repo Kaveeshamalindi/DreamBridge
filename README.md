@@ -35,7 +35,7 @@ The system supports:
 
 - **Usability**: Provides a simple and user-friendly UI/UX with clear menus, organized forms, buttons, input validation, and informative error messages.
 
-- **Maintainability**: Uses Object-Oriented Programming (OOP) concepts such as encapsulation, inheritance, and polymorphism. Three-Layer Architecture separates system responsibilities, making the system easier to develop, test, and maintain.
+- **Maintainability**: Uses OOP concepts such as encapsulation, inheritance, and polymorphism. Three-Layer Architecture separates system responsibilities, making the system easier to develop, test, and maintain.
 
 - **Security**: Uses username and password authentication to prevent unauthorized access and protect student information.
 
