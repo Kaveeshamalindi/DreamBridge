@@ -66,6 +66,7 @@ This project was developed using the following technologies:
 <p align="center">
   <img src="System Design UML/System Flow Chart.png" width="600" style="display: inline-block;">
 </p>
+
 ---
 
 ## 🔎 Data Structures and Algorithms Used
