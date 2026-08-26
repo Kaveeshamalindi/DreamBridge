@@ -63,6 +63,9 @@ This project was developed using the following technologies:
 
 ## 🎨 System Design
 
+<p align="center">
+  <img src="Images/1.png" width="600" style="display: inline-block;">
+</p>
 ---
 
 ## 🔎 Data Structures and Algorithms Used
