@@ -158,7 +158,6 @@ The system meets all the main project requirements. However,
 - Implement **dynamic** resizing for the **Hash Table** so its capacity increases automatically.
 - Add account lockout after several unsuccessful login attempts.
 - Improve security by adding a hash table to store usernames and passwords.
-- Store usernames and passwords securely using appropriate authentication methods.
 - Add SMS or email notifications for enrollment confirmations using APIs.
 - Generate student and course reports in PDF or Excel format.
 - Convert the desktop system into a web application using:
