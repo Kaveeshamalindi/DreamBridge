@@ -147,8 +147,7 @@ The system meets all the main project requirements. However,
 
 - Student records are stored in text files instead of a database.
 - Text files are less suitable for large amounts of data, security, and scalability.
-- The Hash Table has a fixed size of 50 records. If more than 50 records are required, the source code must be modified manually.
-- Therefore, developer support may be needed when the system grows.
+- The Hash Table has a fixed size of 50 records. If more than 50 records (Enrolled Student Records) are required, the source code must be modified manually. Therefore, developer support may be needed when the system grows.
 
 ---
 
