@@ -67,7 +67,7 @@ This project was developed using the following technologies:
   <img src="System Design UML/System Flow Chart.png" width="600" style="display: inline-block;">
 </p>
 
-More
+[More](Algorithms/Sorting%20Algorithms/Quick%20Sort)
 
 ---
 
