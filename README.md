@@ -157,6 +157,7 @@ The system meets all the main project requirements. However,
 - Use **cloud databases** such as AWS, Microsoft Azure, or Google Cloud for better scalability and security.
 - Implement **dynamic** resizing for the **Hash Table** so its capacity increases automatically.
 - Add account lockout after several unsuccessful login attempts.
+- Improve security by adding a hash table to store usernames and passwords.
 - Implement role-based authentication for students and administrators.
 - Store usernames and passwords securely using appropriate authentication methods.
 - Add SMS or email notifications for enrollment confirmations using APIs.
