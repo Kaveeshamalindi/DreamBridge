@@ -155,7 +155,7 @@ The system meets all the main project requirements. However,
 
 - Replace text-file storage with a relational database such as **MySQL**.
 - Use **cloud databases** such as AWS, Microsoft Azure, or Google Cloud for better scalability and security.
-- Implement dynamic resizing for the Hash Table so its capacity increases automatically.
+- Implement **dynamic** resizing for the Hash Table so its capacity increases automatically.
 - Add account lockout after several unsuccessful login attempts.
 - Implement role-based authentication for students and administrators.
 - Store usernames and passwords securely using appropriate authentication methods.
