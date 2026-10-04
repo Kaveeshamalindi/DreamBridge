@@ -153,7 +153,7 @@ The system meets all the main project requirements. However,
 
 ## 📊 Improvements
 
-- Replace text-file storage with a relational database such as MySQL.
+- Replace text-file storage with a relational database such as **MySQL**.
 - Use cloud databases such as AWS, Microsoft Azure, or Google Cloud for better scalability and security.
 - Implement dynamic resizing for the Hash Table so its capacity increases automatically.
 - Add account lockout after several unsuccessful login attempts.
