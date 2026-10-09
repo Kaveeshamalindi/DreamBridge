@@ -10,4 +10,8 @@
 
 ---
 
+## 🔷 Use Case Diagram
+
+---
+
 ## 🔷 Sequence Diagram
