@@ -2,7 +2,7 @@
 
 ---
 
-## Architecture Diagram
+## 🔷 Architecture Diagram
 
 ---
 
