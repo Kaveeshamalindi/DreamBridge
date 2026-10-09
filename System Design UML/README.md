@@ -10,4 +10,4 @@
 
 ---
 
-## Sequence Diagram
+## 🔷 Sequence Diagram
