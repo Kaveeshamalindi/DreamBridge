@@ -4,9 +4,11 @@
 
 ## 🔷 Architecture Diagram
 
+### 3-Tier Architecture
+
 ---
 
-## 🔷 System Flow Chart
+## 🔷 System Flowchart
 
 ---
 
